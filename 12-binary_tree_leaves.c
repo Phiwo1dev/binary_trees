@@ -1,4 +1,4 @@
-#include "binary_trees."
+#include "binary_trees.h"
 
 /**
  * binary_tree_leaves - A function that counts the leaves in a binary tree.
